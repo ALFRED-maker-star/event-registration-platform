@@ -1,0 +1,6 @@
+{
+  "name": "EventHub",
+  "description": "Event management and registration platform with dual Organizer and Attendee experiences, QR tickets, and check-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
